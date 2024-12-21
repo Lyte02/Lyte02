@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Lyte02
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... tfb/insta/X : @lyte_yagami
+- 🌱 I’m currently learning django.
+- 📫 How to reach me ... fb/insta/X : @lyte_yagami
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... lyte as in Light Yagami from Death Note Anime
 
