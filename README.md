@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning django.
 - 📫 How to reach me ... fb/insta/X : @lyte_yagami
+      discord ... .lyteyagami
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... lyte as in Light Yagami from Death Note Anime
 
